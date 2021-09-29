@@ -27,7 +27,8 @@ Suppose a student requires a particular book for his studies which is not availa
  
 ## Schedule
 
-Acceptance of GUI and database design![image](https://user-images.githubusercontent.com/77799896/135206225-1c84603a-86b7-4286-a9c0-ec6e4dec1f57.png)
+![image](https://user-images.githubusercontent.com/77799896/135207341-93d202c4-8655-43ac-b8e7-313f4bbe482a.png)
+
 
 
 ## User interface sketches 
