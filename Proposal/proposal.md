@@ -17,14 +17,17 @@ The overview of the project is to develop an application that allows students to
 •	Students who require these books for a short time period can get access easily.
  
  
+## Epics / User Stories / Tasks
+ 
+ * User should be able to view the Home page.
+ * User should be able to login or Register to the portal.
+ * User should be able to Buy Books.
+ * User should be able to Sell Books.
+ * User should be able to Rent Books.
+ * User should be able to block/cancel an Appointment to Buy/Sell/Rent books.
+ * User should easily be able to navigate through all the pages.
+ 
 ## Acceptance criteria checklist
- 
- 1. User should be able to view the Home page.
- 2. User should be able to login to the portal.
- 3. User should be able to Buy Books.
- 4. User should be able to Sell Books.
- 5. User should be able to Rent Books.
- 
  
 ## User interface sketches 
  #### Website Map
