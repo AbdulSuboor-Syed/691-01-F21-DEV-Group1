@@ -60,6 +60,16 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 ## ER- Diagram 
 ![ERD](https://user-images.githubusercontent.com/77645775/135178671-57675685-2583-45ab-83ce-18f892e82413.png)
 
+## Consistent Set of Sample Data
+BOOK
+
+![image](https://user-images.githubusercontent.com/77765092/135287281-52532272-955b-406f-b907-ff51e7917412.png)
+
+User
+
+![image](https://user-images.githubusercontent.com/77765092/135287924-77cf72a7-4781-4424-865c-edf3420c2511.png)
+
+
 
 
  
