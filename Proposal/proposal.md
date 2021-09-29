@@ -8,27 +8,27 @@ The overview of the project is to develop an application that allows students to
 
 ## **Benefits**
 
-•	Students can buy books easily in the library. 
-
-•	This also allows the university to buy newer addition of textbooks in a short time span.
-
-•	It allows students to buy or rent books easily.
-
-•	Students who require these books for a short time period can get access easily.
+* Students can buy books easily in the library.
+* This also allows the university to buy newer addition of textbooks in a short time span.
+* It allows students to buy or rent books easily.
+* Students who require these books for a short time period can get access easily.
  
  
 ## Epics / User Stories / Tasks
+
+Suppose a student requires a particular book for his studies which is not available in the library for rent. He buys the book from other sources and finally when the book is no use for him, he might recycle or just ignore the book. Now, if he is familiar with the Handin-Handout app he can sell the book for a good amount of price to the library which can be later used by the other needful students without buying it, they can simply rent the book for a very low fee.
  
 ## Acceptance criteria checklist
 
- * User should be able to view the Home page.
- * User should be able to login or Register to the portal.
- * User should be able to Buy Books.
- * User should be able to Sell Books.
- * User should be able to Rent Books.
- * User should be able to block/cancel an Appointment to Buy/Sell/Rent books.
- * User should easily be able to navigate through all the pages.
+* Registration and login for the portal should be accessible for admin and users.
+* Users can purchase, sell and rent the books. 
+* Provision for managing the appointment with the library employees for purchasing, selling or renting the books.
+* Application should be user-friendly for the user.
  
+## Schedule
+
+
+
 ## User interface sketches 
  #### Website Map
  ![interface Sketch](https://user-images.githubusercontent.com/77645775/135176134-8c275dc5-5484-41a6-813b-6da5033621ed.png) 
@@ -63,18 +63,13 @@ We are going to use Azure Cloud Hosting services to host the application and be 
  
 ## **Risks**
 
-•	Students can only sell selected books which are required by the university.
-
-•	University may not have all the books the student may require.
-
-•	If the student took rent for a particular period, they need to return the book on time.
+* Students can only sell selected books which are required by the university.
+* University may not have all the books the student may require.
+* If the student took rent for a particular period, they need to return the book on time.
 
 ## **Assumptions**
 
-•	Students can buy books from the library.
-
-•	Students can sell books to the library.
-
-•	Students can take books for rent from the library.
-
-•	Students can access all the above information within the application.
+* Students can buy books from the library.
+* Students can sell books to the library.
+* Students can take books for rent from the library.
+* Students can access all the above information within the application.
