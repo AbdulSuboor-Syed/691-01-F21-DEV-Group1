@@ -22,10 +22,12 @@ A user can look up books based on the name / subject / semester by year. This wi
 * It allows students to buy or rent books easily.
 * Students who require these books for a short time period can get access easily.
  
- 
 ## Epics / User Stories / Tasks
 
-Suppose a student requires a particular book for his studies which is not available in the library for rent. He buys the book from other sources and finally when the book is no use for him, he might recycle or just ignore the book. Now, if he is familiar with the Handin-Handout app he can sell the book for a good amount of price to the library which can be later used by the other needful students without buying it, they can simply rent the book for a very low fee.
+* As a admin, I want to know the count of books available so that we can rent more books. 
+* As a user, I should be able to signup by entering the username,password and email so that user can be able to login to the portal to Buy/sell/Rent.
+* As a user, I should be able to book an appointment so that user can Buy/sell/Rent a book.
+* As a admin, Should be able to approve/reject/reschedule appointment.
  
 ## Acceptance criteria checklist
 
