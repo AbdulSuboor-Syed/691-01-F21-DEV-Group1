@@ -25,8 +25,8 @@ At first, we would have a login page where an existing user can log-in or a user
 ## Epics / User Stories / Tasks
 
 * As a admin, we want to know the count of books available so that we can rent more books. 
-* As a user, we should be able to signup by entering the username,password and email so that user can be able to login to the portal to Buy/sell/Rent.
-* As a user, we should be able to book an appointment so that user can Buy/sell/Rent a book.
+* As a user, we should be able to signup by entering the username,password and email so that user can be able to login to the portal to Buy/Sell/Rent.
+* As a user, we should be able to book an appointment so that user can Buy/Sell/Rent a book.
 * As a admin, Should be able to approve/reject/reschedule appointment.
  
 ## Acceptance criteria checklist
