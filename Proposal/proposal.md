@@ -74,11 +74,11 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 ## Consistent Set of Sample Data
 BOOK
 
-![image](https://user-images.githubusercontent.com/77765092/135287281-52532272-955b-406f-b907-ff51e7917412.png)
+![image](https://user-images.githubusercontent.com/77765092/135327732-cb642ce3-46b7-4d04-8979-620649b91e61.png)
 
 User
 
-![image](https://user-images.githubusercontent.com/77765092/135287924-77cf72a7-4781-4424-865c-edf3420c2511.png)
+![image](https://user-images.githubusercontent.com/77765092/135327852-0feec287-d54b-4f31-ae40-4745649c5f5f.png)
 
 
 
