@@ -14,7 +14,7 @@ The overview of the project is to develop an application that allows students to
 
 * The user who is selling the book should fill out a form which gives general details about the book.
 
-* A user can look up books based on the details. This will be a drop-down box which would display all the books based on selected values.
+* A user can look up books based on the details. This will be a catalog and they can select the books they desired.
 
 ## **Benefits**
 
