@@ -74,13 +74,32 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 
 
 ## Consistent Set of Sample Data
-BOOK
+### BOOK
 
-![image](https://user-images.githubusercontent.com/77765092/135327732-cb642ce3-46b7-4d04-8979-620649b91e61.png)
+![image](https://user-images.githubusercontent.com/77765092/135582209-e0f33faa-7ab8-4b7f-8d34-881e96035b7a.png)
 
-User
+### User
 
-![image](https://user-images.githubusercontent.com/77765092/135327852-0feec287-d54b-4f31-ae40-4745649c5f5f.png)
+![image](https://user-images.githubusercontent.com/77765092/135582300-1ca3d81b-55eb-4c88-aa93-17a3985dc419.png)
+
+### Appointment
+
+![image](https://user-images.githubusercontent.com/77765092/135582435-6144ecd3-b582-4a1c-87bc-510f2fb6c281.png)
+
+### Purchase
+
+![image](https://user-images.githubusercontent.com/77765092/135582525-51f2b071-18d4-4245-b6bd-55fabf8799f4.png)
+
+### Rent Book
+
+![image](https://user-images.githubusercontent.com/77765092/135582615-8421671a-154b-434d-8372-32630dae38d7.png)
+
+ ### Sales 
+
+![image](https://user-images.githubusercontent.com/77765092/135582684-3e3c5630-95f8-4aea-9074-00c6450b05ed.png)
+
+
+
 
 
 
