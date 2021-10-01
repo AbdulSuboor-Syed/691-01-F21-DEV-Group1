@@ -34,8 +34,11 @@ The overview of the project is to develop an application that allows students to
  
 ## Acceptance criteria checklist
 
+* Given home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
+* when Registration/login for the portal is registered/logged-in then it should be accessible for authorized admin and users.
+* When a action is performed,confirmation of the action should be asked.
+* When purchase/rent/sell options are clicked then only there respective actions must be performed.
 
- 
 ## Schedule
 
 ![image](https://user-images.githubusercontent.com/77799896/135207341-93d202c4-8655-43ac-b8e7-313f4bbe482a.png)
