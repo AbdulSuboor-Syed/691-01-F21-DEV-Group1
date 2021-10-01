@@ -48,9 +48,7 @@ The overview of the project is to develop an application that allows students to
  
  ![Screenshot (35)](https://user-images.githubusercontent.com/77645775/135179577-4f8f88a6-d468-4c18-9370-a0862e014186.png)
 
- 
-![Screenshot (36)](https://user-images.githubusercontent.com/77645775/135179590-18f4d5b2-342f-4382-8365-16f73e758654.png)
-
+![Screenshot (120)](https://user-images.githubusercontent.com/77799896/135568122-a7d16001-6188-40fd-b000-ec137492881f.png)
 
 
 ## Technology stack descriptions
