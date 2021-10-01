@@ -41,7 +41,7 @@ The overview of the project is to develop an application that allows students to
 
 ## Schedule
 
-![Screenshot (123)](https://user-images.githubusercontent.com/77799896/135660952-c660ee8f-afcb-4ec1-b2cf-aaecfd28c018.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/77799896/135661242-b1f5aef1-5f11-45ce-bb10-4040a7bae0d6.png)
 
 
 ## User interface sketches 
