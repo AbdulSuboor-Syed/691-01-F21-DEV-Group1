@@ -33,10 +33,7 @@ At first, we would have a login page where an existing user can log-in or a user
  
 ## Acceptance criteria checklist
 
-* Registration and login for the portal should be accessible for admin and users.
-* Users can purchase, sell and rent the books. 
-* Provision for managing the appointment with the library employees for purchasing, selling or renting the books.
-* Application should be user-friendly for the user.
+
  
 ## Schedule
 
