@@ -74,7 +74,7 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 ## Consistent Set of Sample Data
 ### BOOK
 
-![image](https://user-images.githubusercontent.com/77765092/135582209-e0f33faa-7ab8-4b7f-8d34-881e96035b7a.png)
+![image](https://user-images.githubusercontent.com/77765092/135659848-1411d43f-7c00-4613-bfe0-3cb4442abc90.png)
 
 ### User
 
