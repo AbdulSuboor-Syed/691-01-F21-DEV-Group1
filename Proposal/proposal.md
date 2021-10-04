@@ -35,8 +35,8 @@ The overview of the project is to develop an application that allows students to
 
 * Home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
 * when Registration/login for the portal is registered/logged-in then it should be accessible for authorized admin and users.
-* When a action is performed,confirmation of the action should be asked.
-* When buy/rent/sell options are clicked then only there respective actions must be performed.
+* When View/buy/rent/sell options are clicked then only there respective actions must be performed.
+* When admin clicks on View/Edit/Delete respective operations occur
 
 ## Schedule
 
@@ -55,13 +55,13 @@ The overview of the project is to develop an application that allows students to
 ## Technology stack descriptions
 
 ### ASP.Net Core & C#
-We are going to use Microsoft Visual Studio 2019 (Community verson). We are going to use ASP.Net Core and C# to write the middleware of the application. We will be using Razor pages which are going to be routed using ASP.net Core and display all operations on it.
+We are going to use Microsoft Visual Studio 2019 (Community verson). We are going to use ASP.Net Core and C# to write the middleware of the application. Also we will be using Razor pages for routing.
 
 ### Bootstrap
-We are going to use bootstrap to create a responisve design for the application . We are also going to have Jquery, HTML , CSS to the pages .
+We are going to use bootstrap to create a responisve design for the application . We are also going to use Jquery, HTML , CSS to the pages .
 
-### Microsoft SQL Server
-We are going to use Microsoft SQl server to create and maintain a database for the application.
+### Microsoft SQL Server & Azure Cloud SQL database
+We are going to use Entity framework SQL server to create and maintain the database on local machines. Then we are going to configure it to Azure SQL database.
 
 ### Azure Cloud Hosting
 We are going to use Azure Cloud Hosting services to host the application and be able to run it on all devices.
