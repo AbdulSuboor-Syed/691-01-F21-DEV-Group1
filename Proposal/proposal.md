@@ -1,43 +1,42 @@
 ## **Statement of purpose**
 
-This project is focused to creating a web application that allows students to buy or sell or rent books. Universities tend to distribute textbooks to students for their courses every year.  In case of shortage of books or damaged books or for other reasons, the university tends to ask students to purchase textbooks from other sources. At the end of the year, most of these books are sold on other websites after usage where students tend to recycle them. This project focuses on allowing students to sell these books to the university for a certain percentage of the actual retail price. So that universities can reuse those books instead of buying it from other sources.
+This project is focused to creating a web application that allows students to buy or sell or rent books. Universities tend to distribute textbooks to students for their courses every year.  In case of shortage or damaged or  other reasons, the university tends to ask students to purchase textbooks from other sources. At the end of the year, most of these books are sold on other websites after usage  or students tend to recycle them. This project focuses on allowing students to sell these books to the university for a certain percentage of the actual retail price. So that universities can reuse those books instead of buying it from other sources.
 
 ## **Overview**
 
-The overview of the project is to develop an application that allows students to check the books they want to buy, rent, or sell them to the institution. They will be given an appointment at their university library after filling out a form, where they will bring their book and sell it to the institution. These books can be looked up based on the student details in a catalog. The students need to fill a form for selling the books and make an appointment where the admin can accept or reject the appointment based on the availability of the book in the library.
+The overview of the project is to develop an application that allows students to check the books they want to buy, rent, or sell from the institution. They will be given an appointment at their university library after filling out a form, where they will bring their book and sell it to the institution. These books will be displayed as a catalog. The students need to fill a form for selling the books and make an appointment where the admin can accept or reject the appointment based on the availability of the book in the library.
 
 * At first, we would have a login page where an existing user can log-in or a user can create an account.
-
-* After they have created an account with their desired userID and password. They can look up books to buy/rent/checkout.
-
-* They can also sell books they have bought from other vendors and if they wish to do so they can set up an appointment which the admin can accept or reject based on the availability of the book.
-
+* After they have created an account . They can look  at the catelog of books to buy or rent.
+* They can also sell books which they acquired from other sources and if they wish to do so they can set up an appointment which the admin can accept or reject based on the availability of the book.
 * The user who is selling the book should fill out a form which gives general details about the book.
+* An admin has the capacity to check the number of books available and update the database.
+* The admin can also edit information about the books. 
 
-* A user can look up books based on the details. This will be a catalog and they can select the books they desired.
 
 ## **Benefits**
 
-* Students can buy books easily in the library.
+* Students can buy or rent books easily in the library.
 * This also allows the university to buy newer addition of textbooks in a short time span.
-* It allows students to buy or rent books easily.
 * Students who require these books for a short time period can get access easily.
  
 ## Epics / User Stories / Tasks
 
-* As admin/user, we should be able to view the Home page so that we can perform further actions.
-* As admin, we should be able to deliver a product that can help us in singup to the portal.
-* As user, we should be able to singup to the portal.
-* As User,login and singup should be should be possible so that user can be Buy/Sell/Rent books and also book apointments based on availablity.
-* As admin, login and signup should be possible so that admin can approve/reject/reschedule appointmen and view admin layout.
-* As admin, we should be able to view the admin layout so that he can view the details of the books details and availablity.
+* As admin/user, they should be able to view the Home page and login page.
+* As user, they should be able to see the catelog of books. 
+* As user, they should be able to singup to the portal.
+* As user, they are able to Buy/Sell/Rent books.
+
+* Admin can approve/reject appointments 
+* As admin, we should be able to view the admin layout 
+* As admin, They should be able to see the availability of books and the ability to change the information about the database.
  
 ## Acceptance criteria checklist
 
-* Given home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
+* Home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
 * when Registration/login for the portal is registered/logged-in then it should be accessible for authorized admin and users.
 * When a action is performed,confirmation of the action should be asked.
-* When purchase/rent/sell options are clicked then only there respective actions must be performed.
+* When buy/rent/sell options are clicked then only there respective actions must be performed.
 
 ## Schedule
 
