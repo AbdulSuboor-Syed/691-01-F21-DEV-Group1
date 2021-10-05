@@ -76,27 +76,27 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 ## Consistent Set of Sample Data
 ### BOOK
 
-![image](https://user-images.githubusercontent.com/77765092/135659848-1411d43f-7c00-4613-bfe0-3cb4442abc90.png)
+![image](https://user-images.githubusercontent.com/77765092/135946296-7f75e997-8a18-45fb-953b-d3fd449370c7.png)
 
 ### User
 
-![image](https://user-images.githubusercontent.com/77765092/135582300-1ca3d81b-55eb-4c88-aa93-17a3985dc419.png)
+![image](https://user-images.githubusercontent.com/77765092/135946345-9feb2044-5a3b-40be-9208-d61e87a83ca9.png)
 
 ### Appointment
 
-![image](https://user-images.githubusercontent.com/77765092/135582435-6144ecd3-b582-4a1c-87bc-510f2fb6c281.png)
+![image](https://user-images.githubusercontent.com/77765092/135946365-b57a5eb3-5d70-4929-a427-a48dffdf844c.png)
 
-### Purchase
+### Buying Order
 
-![image](https://user-images.githubusercontent.com/77765092/135582525-51f2b071-18d4-4245-b6bd-55fabf8799f4.png)
+![image](https://user-images.githubusercontent.com/77765092/135946430-b214b5dc-8052-4ece-ba97-5f4b51ff25df.png)
 
-### Rent Book
+### Sale Order
 
-![image](https://user-images.githubusercontent.com/77765092/135582615-8421671a-154b-434d-8372-32630dae38d7.png)
+![image](https://user-images.githubusercontent.com/77765092/135946500-b40014b3-c362-49a4-a8be-8e3b64b0253d.png)
 
- ### Sales 
+ ### Renting Order 
 
-![image](https://user-images.githubusercontent.com/77765092/135582684-3e3c5630-95f8-4aea-9074-00c6450b05ed.png)
+![image](https://user-images.githubusercontent.com/77765092/135946536-40ddd42f-08d0-4019-8957-61bb1022e9bf.png)
 
 
 
