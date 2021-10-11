@@ -6,7 +6,7 @@ This project is focused to creating a web application that allows students to bu
 
 The overview of the project is to develop an application that allows students to check the books they want to buy, rent, or sell from the institution. They will be given an appointment at their university library after filling out a form, where they will bring their book and sell it to the institution. These books will be displayed as a catalog. The students need to fill a form for selling the books and make an appointment where the admin can accept or reject the appointment based on the availability of the book in the library.
 
-* At first, we would have a login page where an existing user can log-in or a user can create an account.
+* At first, we would have a login page where an existing user can log-in or a sign up page where a user can create an account.
 * After they have created an account . They can look  at the catelog of books to buy or rent.
 * They can also sell books which they acquired from other sources and if they wish to do so they can set up an appointment which the admin can accept or reject based on the availability of the book.
 * The user who is selling the book should fill out a form which gives general details about the book.
@@ -23,13 +23,14 @@ The overview of the project is to develop an application that allows students to
 ## Epics / User Stories / Tasks
 
 * As admin/user, they should be able to view the Home page and login page.
+
 * As user, they should be able to see the catelog of books. 
 * As user, they should be able to singup to the portal.
 * As user, they are able to Buy/Sell/Rent books.
 
 * Admin can approve/reject appointments 
 * As admin, we should be able to view the admin layout 
-* As admin, They should be able to see the availability of books and the ability to change the information about the database.
+* As admin, They should be able to see the availability of books and the ability to change the information on database easily.
  
 ## Acceptance criteria checklist
 
