@@ -22,12 +22,24 @@ The overview of the project is to develop an application that allows students to
  
 ## Epics / User Stories / Tasks
 
-* As admin/user, they should be able to view the Home page and login page.
 
+### Epics:
+* Login and Authentication
+* Sign Up (Personal and Gmail)
+* Catelog Management
+* Buy Order
+* Sell Order
+* Rent Order
+* Appointment
+
+### User Stories:
+* As admin/user, they should be able to view the Home page and login page.
+#### User Capabilities:
 * As user, they should be able to see the catelog of books. 
 * As user, they should be able to singup to the portal.
-* As user, they are able to Buy/Sell/Rent books.
-
+* As user, they are able to Buy/Rent books.
+* As user, they should be able to send a request for selling a book with information.
+#### Admin Capabilities:
 * Admin can approve/reject appointments 
 * As admin, we should be able to view the admin layout 
 * As admin, They should be able to see the availability of books and the ability to change the information on database easily.
@@ -36,8 +48,9 @@ The overview of the project is to develop an application that allows students to
 
 * Home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
 * when Registration/login for the portal is registered/logged-in then it should be accessible for authorized admin and users.
-* When View/buy/rent/sell options are clicked then only there respective actions must be performed.
-* When admin clicks on View/Edit/Delete respective operations occur
+* When View/buy/rent is clicked then respective pages and request must respond.
+* When admin clicks on View/Edit/Delete operations occur respectively.
+* Buy Order or Sell Order or Rent Order must be displayed.
 
 ## Schedule
 
