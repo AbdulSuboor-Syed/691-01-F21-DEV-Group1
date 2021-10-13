@@ -131,7 +131,7 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 * Students can access all the above information within the application.
 
 ## 	Deliverable artifacts
-* Users can able to see the Books to which they need and number of books available.
+* Users are able to see the Books to which they need and number of books available.
 * University Library is able to update regarding Book (name, author, buying cost, renting cost and number of books available.
 
 ## 	Scope:
