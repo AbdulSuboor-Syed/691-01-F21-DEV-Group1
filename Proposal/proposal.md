@@ -13,16 +13,12 @@ The overview of the project is to develop an application that allows students to
 * An admin has the capacity to check the number of books available and update the database.
 * The admin can also edit information about the books. 
 
-
 ## **Benefits**
-
 * Students can buy or rent books easily in the library.
 * This also allows the university to buy newer addition of textbooks in a short time span.
 * Students who require these books for a short time period can get access easily.
  
 ## Epics / User Stories / Tasks
-
-
 ### Epics:
 * Login and Authentication
 * Sign Up (Personal and Gmail)
@@ -44,7 +40,7 @@ The overview of the project is to develop an application that allows students to
 * As admin, we should be able to view the admin layout 
 * As admin, They should be able to see the availability of books and the ability to change the information on database easily.
  
-## Acceptance criteria checklist
+## Acceptance criteria checklist:
 
 * Home screen URL should be loaded in user-friendly format irrespective of the gadget its being used on.
 * when Registration/login for the portal is registered/logged-in then it should be accessible for authorized admin and users.
@@ -52,9 +48,26 @@ The overview of the project is to develop an application that allows students to
 * When admin clicks on View/Edit/Delete operations occur respectively.
 * Buy Order or Sell Order or Rent Order must be displayed.
 
+## Functional Requirment:
+
+
+
+
+## Performance Requirement:
+
+### Database Server performance:
+![Screenshot (38)](https://user-images.githubusercontent.com/77645775/136893857-8a6059cc-7d7d-4fe9-8f46-2d0183c86d1e.png)
+The data in the image shows how the data is retrieved and displayed from the Azure cloud database.
+
+## Other Requrement:
+
+
+
 ## Schedule
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/77799896/135661242-b1f5aef1-5f11-45ce-bb10-4040a7bae0d6.png)
+
+
 
 
 ## User interface sketches 
@@ -111,13 +124,6 @@ We are going to use Azure Cloud Hosting services to host the application and be 
  ### Renting Order 
 
 ![image](https://user-images.githubusercontent.com/77765092/135946536-40ddd42f-08d0-4019-8957-61bb1022e9bf.png)
-
-
-
-
-
-
-
  
 ## **Risks**
 
