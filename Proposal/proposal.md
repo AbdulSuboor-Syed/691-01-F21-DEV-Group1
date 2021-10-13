@@ -101,28 +101,22 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 ## Consistent Set of Sample Data
 ### BOOK
 
-![image](https://user-images.githubusercontent.com/77765092/135946296-7f75e997-8a18-45fb-953b-d3fd449370c7.png)
-
+![image](https://user-images.githubusercontent.com/77765092/137162862-57be11aa-06a6-4a8e-86e2-d02ba191beb3.png)
 ### User
 
-![image](https://user-images.githubusercontent.com/77765092/135946345-9feb2044-5a3b-40be-9208-d61e87a83ca9.png)
-
+![image](https://user-images.githubusercontent.com/77765092/137162132-2e3f5380-288f-4b24-a977-d0697d0b09a3.png)
 ### Appointment
 
-![image](https://user-images.githubusercontent.com/77765092/135946365-b57a5eb3-5d70-4929-a427-a48dffdf844c.png)
-
+![image](https://user-images.githubusercontent.com/77765092/137162194-7ea29660-1b76-4d71-ac4d-57827e782a1b.png)
 ### Buying Order
 
-![image](https://user-images.githubusercontent.com/77765092/135946430-b214b5dc-8052-4ece-ba97-5f4b51ff25df.png)
-
+![image](https://user-images.githubusercontent.com/77765092/137162278-89de1e40-da57-4721-a877-cf19027b15dc.png)
 ### Sale Order
 
-![image](https://user-images.githubusercontent.com/77765092/135946500-b40014b3-c362-49a4-a8be-8e3b64b0253d.png)
-
+![image](https://user-images.githubusercontent.com/77765092/137162340-ad836d09-ade6-4d8f-adf4-04d8a58bc91e.png)
 ### Renting Order 
 
-![image](https://user-images.githubusercontent.com/77765092/135946536-40ddd42f-08d0-4019-8957-61bb1022e9bf.png)
- 
+![image](https://user-images.githubusercontent.com/77765092/137162475-ea97d536-6b50-4704-8219-65eb275f5433.png) 
 ## **Risks**
 
 * Students can only sell selected books which are required by the university.
