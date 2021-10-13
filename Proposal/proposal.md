@@ -166,6 +166,22 @@ This project has the capacity to reach a wide range of audience. This will help 
 
 ## Test plan with requirements
 
+## Test Deliverables before testing phase
 
+* Test plans document.
+* Test cases documents.
+* Test Design specifications.
 
+## Test deliverables are provided during the testing
 
+* Test Scripts
+* Test Data
+* Test Traceability Matrix
+* Error logs and execution logs.
+
+## Test deliverables are provided after the testing cycles is over.
+
+* Test Results/reports
+* Defect Report
+* Installation/ Test procedures guidelines
+* Release notes
