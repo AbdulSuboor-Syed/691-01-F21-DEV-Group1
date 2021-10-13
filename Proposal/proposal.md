@@ -160,9 +160,8 @@ This project has the capacity to reach a wide range of audience. This will help 
 | 2    | [Hema Sree Rathnam Machha](https://github.com/HemaSreeRathnamMachha)                   |  Team Lead | 9 - 15 | $415 - $550 |
 | 3    | [Himaja Parachuri](https://github.com/HimajaParachuri)                   |  Developer | 9 - 15 | $415 - $550 |
 | 4    | [Chandra Bhanu Tata](https://github.com/tata1141)                   |  Tester | 9 - 15 | $415 - $550 |
-
-|    |               |   |  | Material Resources  | $1500 |
-|    |               |   |  | Total  | $3160 - $3700 |
+|    |               |   | Material Resources  | $1500 |
+|    |               |   | Total  | $3160 - $3700 |
 
 
 ## Test plan with requirements
