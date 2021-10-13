@@ -55,7 +55,7 @@ The overview of the project is to develop an application that allows students to
 
 ## Performance Requirement:
 ![Screenshot (38)](https://user-images.githubusercontent.com/77645775/136893857-8a6059cc-7d7d-4fe9-8f46-2d0183c86d1e.png)
-The data in the image shows how the data is retrieved and displayed from the Azure cloud database.
+This image shows the avergae processing speed to process request on the Azure website and avialable space for the Azure database
 
 ## Other Requrement:
 * User layouts for Users.
