@@ -179,7 +179,7 @@ This project has the capacity to reach a wide range of audience. This will help 
 * Test Traceability Matrix
 * Error logs and execution logs.
 
-## Test deliverables are provided after the testing cycles is over.
+## Test deliverables are provided after the testing cycles is over
 
 * Test Results/reports
 * Defect Report
