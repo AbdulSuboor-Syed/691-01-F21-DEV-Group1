@@ -154,6 +154,17 @@ This project has the capacity to reach a wide range of audience. This will help 
 ![Screenshot (122)](https://user-images.githubusercontent.com/77799896/135661242-b1f5aef1-5f11-45ce-bb10-4040a7bae0d6.png)
 
 ## Budget (as time)
+| S. No. | Name                                                            | Role               | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | [Abdul Suboor syed ](https://github.com/AbdulSuboor-Syed)           |  Developer  | 9 - 15 |  $415 - $550 |
+| 2    | [Hema Sree Rathnam Machha](https://github.com/HemaSreeRathnamMachha)                   |  Team Lead | 9 - 15 | $415 - $550 |
+| 3    | [Himaja Parachuri](https://github.com/HimajaParachuri)                   |  Developer | 9 - 15 | $415 - $550 |
+| 4    | [Chandra Bhanu Tata](https://github.com/tata1141)                   |  Tester | 9 - 15 | $415 - $550 |
+
+|    |               |   |  | Material Resources  | $1500 |
+|    |               |   |  | Total  | $3160 - $3700 |
+
+
 ## Test plan with requirements
 
 
