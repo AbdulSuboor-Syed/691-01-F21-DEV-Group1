@@ -49,23 +49,19 @@ The overview of the project is to develop an application that allows students to
 * Buy Order or Sell Order or Rent Order must be displayed.
 
 ## Functional Requirment:
-
-
-
+* The project should support data manupilation from the website.
+* The project should display Buy order or Sell order or Rent order.
+* The project should be able to display the catelog and any changes made should be implemented immediately.
 
 ## Performance Requirement:
-
-### Database Server performance:
 ![Screenshot (38)](https://user-images.githubusercontent.com/77645775/136893857-8a6059cc-7d7d-4fe9-8f46-2d0183c86d1e.png)
 The data in the image shows how the data is retrieved and displayed from the Azure cloud database.
 
 ## Other Requrement:
-
-
-
-## Schedule
-
-![Screenshot (122)](https://user-images.githubusercontent.com/77799896/135661242-b1f5aef1-5f11-45ce-bb10-4040a7bae0d6.png)
+* User layouts for Users.
+* Admin layouts for Admin users.
+* The project should be secure and lock out users if they input wrong information multiple time. 
+* The project should be able to support Gmail login.
 
 
 
@@ -81,13 +77,13 @@ The data in the image shows how the data is retrieved and displayed from the Azu
 
 ## Technology stack descriptions
 
-### ASP.Net Core & C#
+### ASP.Net Core(.NET 5) & C#
 We are going to use Microsoft Visual Studio 2019 (Community verson). We are going to use ASP.Net Core and C# to write the middleware of the application. Also we will be using Razor pages for routing.
 
-### Bootstrap
+### Bootstrap ("twitter-bootstrap@5.1.1") & Jquery ("jquery@3.6.0")
 We are going to use bootstrap to create a responisve design for the application . We are also going to use Jquery, HTML , CSS to the pages .
 
-### Microsoft SQL Server & Azure Cloud SQL database
+### Microsoft SQL Server(2018) & Azure Cloud SQL database
 We are going to use Entity framework SQL server to create and maintain the database on local machines. Then we are going to configure it to Azure SQL database.
 
 ### Azure Cloud Hosting
@@ -121,7 +117,7 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 
 ![image](https://user-images.githubusercontent.com/77765092/135946500-b40014b3-c362-49a4-a8be-8e3b64b0253d.png)
 
- ### Renting Order 
+### Renting Order 
 
 ![image](https://user-images.githubusercontent.com/77765092/135946536-40ddd42f-08d0-4019-8957-61bb1022e9bf.png)
  
@@ -137,3 +133,27 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 * Students can sell books to the library.
 * Students can take books for rent from the library.
 * Students can access all the above information within the application.
+
+
+## 	Deliverable artifacts
+
+
+## 	Scope:
+This project has the capacity to reach a wide range of audience. This will help university to reachout to students who don't have time to come to the library and reserve the book they need. Even if they are unable to get the book from the university they could buy it from other vendors and have a chance to get a return on the retail price.
+
+## Milestones
+1. User Interfact and Web Design (User Layout & Admin Layout)
+2. Routing and Request pipelining
+3. Database Creation and Connection
+4. Security and Error handeling
+5. Testing and depolying
+
+## Schedule
+![Screenshot (122)](https://user-images.githubusercontent.com/77799896/135661242-b1f5aef1-5f11-45ce-bb10-4040a7bae0d6.png)
+
+## Budget (as time)
+## Test plan with requirements
+
+
+
+
