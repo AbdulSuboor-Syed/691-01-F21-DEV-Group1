@@ -130,9 +130,9 @@ We are going to use Azure Cloud Hosting services to host the application and be 
 * Students can take books for rent from the library.
 * Students can access all the above information within the application.
 
-
 ## 	Deliverable artifacts
-
+* Users can able to see the Books to which they need and number of books available.
+* University Library is able to update regarding Book (name, author, buying cost, renting cost and number of books available.
 
 ## 	Scope:
 This project has the capacity to reach a wide range of audience. This will help university to reachout to students who don't have time to come to the library and reserve the book they need. Even if they are unable to get the book from the university they could buy it from other vendors and have a chance to get a return on the retail price.
