@@ -50,18 +50,20 @@ The overview of the project is to develop an application that allows students to
 
 ## Functional Requirment:
 * The project should support data manupilation from the website.
+* The project should be able to create unique id for every user that signs up.
 * The project should display Buy order or Sell order or Rent order.
 * The project should be able to display the catelog and any changes made should be implemented immediately.
+* The project should have User Authentication which is secure and locks out users if they input wrong information multiple time. 
 
 ## Performance Requirement:
 ![Screenshot (38)](https://user-images.githubusercontent.com/77645775/136893857-8a6059cc-7d7d-4fe9-8f46-2d0183c86d1e.png)
 This image shows the avergae processing speed to process request on the Azure website and avialable space for the Azure database
 
 ## Other Requrement:
-* User layouts for Users.
-* Admin layouts for Admin users.
-* The project should be secure and lock out users if they input wrong information multiple time. 
+* User layouts should be displayed for Users.
+* Admin layouts should be displayed for Admin users.
 * The project should be able to support Gmail login.
+* Sell order must have a form that user must be filled out before it is displayed.
 
 
 
