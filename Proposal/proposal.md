@@ -22,7 +22,7 @@ The overview of the project is to develop an application that allows students to
 ### Epics:
 * Login and Authentication
 * Sign Up (Personal and Gmail)
-* Catelog Management
+* Catlog Management
 * Buy Order
 * Sell Order
 * Rent Order
